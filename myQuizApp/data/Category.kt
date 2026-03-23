@@ -1,4 +1,4 @@
-package com.goble.myquizapp.data
+package com.example.quizdatabaseapp.data
 
 enum class Category(val displayName: String) {
     COMPSCI("Computer Science"),

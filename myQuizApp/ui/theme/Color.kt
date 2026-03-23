@@ -1,4 +1,4 @@
-package com.goble.myquizapp.ui.theme
+package com.example.quizdatabaseapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
